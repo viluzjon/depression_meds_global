@@ -1,0 +1,60 @@
+# R files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj/
+
+# Logs and reports
+*.log
+*.out
+*.rds
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sas7bdat
+*.sav
+*.dta
+
+# Environment and configuration
+.env
+.DS_Store
+Thumbs.db
+
+# Compiled source
+*.o
+*.so
+*.dll
+
+# Packrat (R dependency management)
+packrat/
+packrat.lock
+
+# ShinyApps
+rsconnect/
+
+# Plots
+*.pdf
+*.svg
+*.eps
+*.png
+*.jpeg
+*.jpg
+
+# Temporary files and caches
+*.tmp
+*.temp
+.cache/
+*.bak
+
+# Other
+.vscode/
+.idea/
+*.iml
+*.ipynb_checkpoints/
+
+# Exported files
+/export/
